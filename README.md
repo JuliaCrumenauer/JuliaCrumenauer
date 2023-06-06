@@ -8,11 +8,11 @@ Estou diariamente pondo mãos e olhos em códigos (meus e de outras pessoas), se
 
 Sou formada em Sistemas de Informação - e além da programação, estou estudando metodologias ágeis (mais especificamente Scrum).
 
-<div>
+<!--<div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=JuliaCrumenauer&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaCrumenauer&layout=compact&langs_count=16&theme=codeSTACKr"/>
-</div>
+</div>-->
 
 ![Snake animation](https://github.com/JuliaCrumenauer/JuliaCrumenauer/blob/output/github-contribution-grid-snake.svg)
 
