@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 
-### Seja bem vinde! Julia Crumenauer aqui 😄
+### Seja bem vinda! Julia Crumenauer aqui 😄
 Bom, a primeira coisa que eu quero que tu saiba é que estou estudando ReactJs desde novembro de 2022. 
 <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 Busco por uma vaga como desenvolvedora júnior. 
