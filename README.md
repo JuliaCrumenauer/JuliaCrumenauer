@@ -1,12 +1,25 @@
 <!--### Hi there 👋-->
 
 ### Boas vindas! Julia Crumenauer aqui 😄
-Bom, a primeira coisa que eu quero que tu saiba é que estou estudando ReactJs desde novembro de 2022. 
-<img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-Busco por uma vaga como desenvolvedora júnior. 
-Estou diariamente pondo mãos e olhos em códigos (meus e de outras pessoas), sem esquecer de aperfeiçoar as soft skills.
 
-Sou formada em Sistemas de Informação - e além da programação, estou estudando metodologias ágeis (mais especificamente Scrum).
+![tumblr_ltsnghIZ7s1qdsqq2o6_250](https://github.com/JuliaCrumenauer/JuliaCrumenauer/assets/67925313/e512475b-5733-4488-abae-ca0bb9166425)
+
+
+Sou formada em Sistemas de Informação, atualmente estudo na Rocketseat e busco pela tão sonhada vaga como dev.
+Aqui você pode ver no que eu tenho trabalhado. 
+Meu maior foco está em ReactJs e TypeScript. 
+Porém, as vezes gosto de rever conceitos básicos com alguns desafios de javascript, html e css.
+Você também encontrará projeto fullstack utilizando MongoDB para armazenar as informações.
+E recentemente também desenvolvi utilizando Tailwind css e um projeto com Angular.
+
+Uma das minhas características que afeta diretamente no meu trabalho com os códigos, é a busca constante por aprendizado.
+E mais do que aprender na teoria, conseguir aplicar em projetos reais. 
+
+E aí, bora conversar e de repente trabalhar junto?
+
+Meu linkedin: https://www.linkedin.com/in/juliacrumenauer/
+
+
 
 <!--<div>
   
