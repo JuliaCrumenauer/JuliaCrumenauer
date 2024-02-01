@@ -2,7 +2,6 @@
 
 ### Boas vindas! Julia Crumenauer aqui 😄
 
-![tumblr_ltsnghIZ7s1qdsqq2o6_250](https://github.com/JuliaCrumenauer/JuliaCrumenauer/assets/67925313/e512475b-5733-4488-abae-ca0bb9166425)
 
 
 Sou formada em Sistemas de Informação, atualmente estudo na Rocketseat e busco pela tão sonhada vaga como dev.
