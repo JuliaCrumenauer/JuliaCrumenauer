@@ -4,7 +4,7 @@
 
 
 
-Sou formada em Sistemas de Informação, atualmente estudo na Rocketseat e busco pela tão sonhada vaga como dev.
+Sou formada em Sistemas de Informação, atualmente faço tecnólogo de Desenvolvimento Full Stack, estudo na Rocketseat e busco pela tão sonhada vaga como dev.
 Aqui você pode ver no que eu tenho trabalhado. 
 Meu maior foco está em ReactJs e TypeScript. 
 Porém, as vezes gosto de rever conceitos básicos com alguns desafios de javascript, html e css.
